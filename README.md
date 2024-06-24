@@ -1,5 +1,10 @@
 # Countdown-to-life
  This is a software that run on the Windows , to set a timed task without worrying about forgetting anything.
+ <br />
+ # Introduction of my program
+ 1. By default, the software will display the number of days until the next year, as well as the time that has passed today, of course, you can also customize a theme, select the date, and the software will include it in the agenda, and the time of the distance will be displayed in real time
+  <br />
+ 2. There are two built-in themes, which support theme switching, and also support the auto-start function at boot    <br />
 
  ## Software development environment
 Python version: 3.10  <br />
