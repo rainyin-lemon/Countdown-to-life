@@ -10,7 +10,7 @@ Operating environment: Win10 or above systems<br />
 ## Introduction to the file tree
 [mian_software](https://github.com/rainyin-lemon/Countdown-to-life/tree/main/mian_software)：Store the packaged executable program and the resources required by the program
 <br />
-[source_code](https://github.com/rainyin-lemon/Countdown-to-life/tree/main/source_code)：The source code of the software is stored here, and you can refer to my code at any time
+[source_code](https://github.com/rainyin-lemon/Countdown-to-life/tree/main/source_code)：The source code of the software is stored here, and you can use my code at any time
 <br />
 Screenshot：two pictures of the program at runtime
 <br />
